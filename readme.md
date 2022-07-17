@@ -1,0 +1,1 @@
+The aim of this project is to create a website where people can easily learn about the prices of houses across various parts of Chennai. Used Machine Learning and Deep Learning algorithms to predict the housing price. Python Flask server is used to connect Front-end with the ML model.
